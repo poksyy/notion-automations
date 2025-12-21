@@ -114,7 +114,7 @@ private static final List<Habit> HABITS = List.of(
 
 - Java 17
 - Maven
-- Notion API
+- [Notion API](https://developers.notion.com/reference/intro)
 - GitHub Actions
 - Gson (JSON parsing)
 - dotenv-java (environment configuration)
