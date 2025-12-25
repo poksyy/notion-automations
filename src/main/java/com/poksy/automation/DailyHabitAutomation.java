@@ -50,7 +50,8 @@ public class DailyHabitAutomation {
         int successCount = 0;
         int failCount = 0;
 
-        for (Habit habit : HABITS) {
+        for (int i = HABITS.size() - 1; i >= 0; i--) {
+            Habit habit = HABITS.get(i);
             var result = habitService.createForDay(habit, day);
 
             if (result.isPresent()) {
