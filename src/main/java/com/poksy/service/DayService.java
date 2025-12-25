@@ -34,7 +34,8 @@ public class DayService {
                         "Date": {
                             "date": { "start": "%s" }
                         }
-                    }
+                    },
+                    "icon": { "type": "emoji", "emoji": "📅" }
                 }
                 """.formatted(
                         NotionConfig.DAYS_DATABASE_ID,
