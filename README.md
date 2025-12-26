@@ -6,6 +6,9 @@ Automation scripts for Notion workspace.
 
 - **Daily Habits**: Creates day entry and habits, fully linked
 - **Monthly Cleanup**: Archives entries older than N months
+  
+<img width="1311" height="706" alt="image" src="https://github.com/user-attachments/assets/9432a968-5937-4d8e-a56b-35c005b58a95" />
+
 
 ## Setup
 
